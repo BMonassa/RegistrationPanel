@@ -23,7 +23,7 @@ export default function RegistrationForm() {
   return (
     <div>
       {data.length === 0 ? (
-        <h1>CALMA AEEEE</h1>
+        <h1>...</h1>
       ) : (
         <>
           <Header />
