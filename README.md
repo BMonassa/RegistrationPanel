@@ -15,6 +15,12 @@
 -  Navegue até a pasta do projeto pelo terminal e execute `npm install` que os arquivos de dependências serão baixados
 -  Execute o comando `um npm run dev ` para iniciar o projeto.
 
+-  ## 🛠️ Fazer login no projeto
+
+-   email: usuario@gmail.com.br
+-   senha: 1234
+
+
   ## 🛠️ Iniciar testes com Jest
 
 -  Execute o comando ` npm test --watch ` para iniciar os testes.
