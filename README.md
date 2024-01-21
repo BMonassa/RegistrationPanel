@@ -1,12 +1,14 @@
 ## ✔️ Funcionalidades do projeto
 
+
 - WEB
   
-![REC-20240121134613-ezgif com-video-to-gif-converter](https://github.com/BMonassa/RegistrationPanel/assets/91953401/d34769df-4050-47c7-b188-951beb4f61c4)
+![REC-20240121134613-ezgif com-video-to-gif-converter](https://github.com/BMonassa/RegistrationPanel/assets/91953401/5fe869ba-2961-41b4-a6c2-b798b3c49bd9)
 
 - Mobile
 
-![REC-20240121140516-ezgif com-video-to-gif-converter](https://github.com/BMonassa/RegistrationPanel/assets/91953401/10eb8c00-3d98-4ad7-9b90-269d5eb49ae3)
+![REC-20240121140516-ezgif com-video-to-gif-converter](https://github.com/BMonassa/RegistrationPanel/assets/91953401/dd6b5bd7-7165-4b23-8b5f-98aef8629049)
+
 
 
 ## ✔️ Técnicas e tecnologias utilizadas
