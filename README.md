@@ -1,3 +1,12 @@
+## ✔️ Funcionalidades do projeto
+
+- WEB
+  
+![REC-20240121134613-ezgif com-video-to-gif-converter](https://github.com/BMonassa/RegistrationPanel/assets/91953401/d34769df-4050-47c7-b188-951beb4f61c4)
+
+- Mobile
+
+![REC-20240121140516-ezgif com-video-to-gif-converter](https://github.com/BMonassa/RegistrationPanel/assets/91953401/10eb8c00-3d98-4ad7-9b90-269d5eb49ae3)
 
 
 ## ✔️ Técnicas e tecnologias utilizadas
